@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Khanak Agrawal 👋
 
-<!--
-**khanakagr/khanakagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student in Mathematics and Computing at IGDTUW with strong foundations in programming, problem-solving, and web development. I have a keen interest in AI, data structures & algorithms, and competitive programming.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** C++, C, R(learning), MATLAB(learning)
+- **Concepts:** Data Structures, Algorithms (C++), Web Development (HTML, CSS)
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **DSA and Competitive Programming Practice** – Solutions to coding problems from LeetCode, Codechef & Codeforces
+- **Contributions** -
+  > Interview-Preparation (C++) – Contributed solutions and improvements to the repository for coding interview preparation. [Github](https://github.com/khanakagr/Interview-Preparation)
+  > DSA-1 (C++) – Added solutions and practice problems [GitHub](https://github.com/khanakagr/DSA-1)
+  > Competitive-Programming (C++) – Solved and uploaded coding challenges [GitHub](https://github.com/khanakagr/Competitive-Programming)
+
+## Contact Me
+- Email: khanakagrawal9507@gmail.com
+- GitHub: [Github](https://github.com/khanakagr)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khanak-agrawal-51025037b/)  
