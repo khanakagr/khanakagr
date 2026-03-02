@@ -10,9 +10,9 @@ I am a B.Tech student in Mathematics and Computing at IGDTUW with strong foundat
 ## Projects
 - **DSA and Competitive Programming Practice** – Solutions to coding problems from LeetCode, Codechef & Codeforces
 - **Contributions** -
-  > Interview-Preparation (C++) – Contributed solutions and improvements to the repository for coding interview preparation. [Github](https://github.com/khanakagr/Interview-Preparation)
-  > DSA-1 (C++) – Added solutions and practice problems [GitHub](https://github.com/khanakagr/DSA-1)
-  > Competitive-Programming (C++) – Solved and uploaded coding challenges [GitHub](https://github.com/khanakagr/Competitive-Programming)
+  - Interview-Preparation (C++) – Contributed solutions and improvements to the repository for coding interview preparation. [Github](https://github.com/khanakagr/Interview-Preparation)
+  - DSA-1 (C++) – Added solutions and practice problems [GitHub](https://github.com/khanakagr/DSA-1)
+  - Competitive-Programming (C++) – Solved and uploaded coding challenges [GitHub](https://github.com/khanakagr/Competitive-Programming)
 
 ## Contact Me
 - Email: khanakagrawal9507@gmail.com
