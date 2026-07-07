@@ -3,8 +3,9 @@
 I am a B.Tech student in Mathematics and Computing at IGDTUW with strong foundations in programming, problem-solving, and web development. I have a keen interest in AI, data structures & algorithms, and competitive programming.
 
 ## Skills
-- **Languages:** C++, C, R(learning), MATLAB(learning)
+- **Languages:** C++, C, R, MATLAB
 - **Concepts:** Data Structures, Algorithms (C++), Web Development (HTML, CSS)
+- **ML/AI:** Machine Learning, Natural Language Processing, Generative AI 
 - **Tools:** Git, GitHub, VS Code
 
 ---
