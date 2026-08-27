@@ -10,6 +10,14 @@ I am a B.Tech student in Mathematics and Computing at IGDTUW with strong foundat
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanakagr&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanakagr&layout=compact&hide_border=true)
+
+---
+
 ## 💻 Coding Profiles
 
 - **LeetCode:** [Click here](https://leetcode.com/u/aKond4Dy8C/)
