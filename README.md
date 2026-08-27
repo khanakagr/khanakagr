@@ -10,6 +10,14 @@ I am a B.Tech student in Mathematics and Computing at IGDTUW with strong foundat
 
 ---
 
+## 💻 Coding Profiles
+
+- **LeetCode:** [Click here](https://leetcode.com/u/aKond4Dy8C/)
+- **Codeforces:** [Click here](https://codeforces.com/profile/khanakagrawal9507)
+- **CodeChef:** [Click here](https://www.codechef.com/users/khanakagr)
+
+---
+
 ## Projects
 - **Customer Churn Prediction**  [Github](https://github.com/khanakagr/customer-churn-project)
   - Built a machine learning model to predict customer churn using real-world dataset  
