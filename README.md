@@ -19,16 +19,23 @@ I am a B.Tech student in Mathematics and Computing at IGDTUW with strong foundat
 ---
 
 ## Projects
-- **Customer Churn Prediction**  [Github](https://github.com/khanakagr/customer-churn-project)
-  - Built a machine learning model to predict customer churn using real-world dataset  
-  - Performed data preprocessing, feature selection, and model training  
-  - Evaluated model performance using standard metrics
+- **MedIQ – AI Medical Assistant** [GitHub](https://github.com/khanakagr/AI-medical-assistant)
+  - Built a GenAI-powered medical assistant using RAG and FAISS for grounded medical question answering
+  - Developed custom tools for symptom checking, risk evaluation, medicine information, medical Q&A, and disease comparison
+  - Implemented LLM tool calling and a LangGraph agent to automatically select and execute relevant tools
+  - Used HuggingFace, Sentence Transformers, Groq (LLaMA 3.1), and KeyBERT for the AI pipeline
 
 
 - **Research Paper Summarization (NLP)**  [Github](https://github.com/khanakagr/research-paper-summarization)
   - Developed an NLP-based system to summarize research papers  
   - Applied text preprocessing and summarization techniques  
-  - Focused on extracting key information from long documents  
+  - Focused on extracting key information from long documents
+ 
+    
+- **Customer Churn Prediction**  [Github](https://github.com/khanakagr/customer-churn-project)
+  - Built a machine learning model to predict customer churn using real-world dataset  
+  - Performed data preprocessing, feature selection, and model training  
+  - Evaluated model performance using standard metrics
 
 
 - **Crop Yield Analysis** [Github](https://github.com/khanakagr/crop-yield-analysis)
