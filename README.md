@@ -19,6 +19,13 @@ I am a B.Tech student in Mathematics and Computing at IGDTUW with strong foundat
 ---
 
 ## Projects
+- **Prompt Injection Detection for LLMs** [GitHub](https://github.com/khanakagr/prompt-injection-detection)
+  - Developed a machine learning-based system to detect prompt injection attacks targeting Large Language Models
+  - Extracted lexical, structural, and semantic features from prompts to identify malicious inputs
+  - Compared six machine learning classifiers and achieved 91.7% accuracy with the best-performing model
+  - Conducted the project as part of a research internship and co-authored a research paper on prompt injection detection
+
+
 - **MedIQ – AI Medical Assistant** [GitHub](https://github.com/khanakagr/AI-medical-assistant)
   - Built a GenAI-powered medical assistant using RAG and FAISS for grounded medical question answering
   - Developed custom tools for symptom checking, risk evaluation, medicine information, medical Q&A, and disease comparison
